@@ -1,0 +1,16 @@
+"GameInfo"
+{
+	"game" 		"DESTINATION"
+	"title" 		"DESTINATION"
+	"title2"		""
+
+	"FileSystem"
+	{
+		"SearchPaths"
+		{
+			"game"		"destination"
+			"game"		"valve"
+			"platform"	"platform"
+		}
+	}
+}
