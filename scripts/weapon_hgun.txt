@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_hgun.mdl"
 	"worldmodel"			"models/w_hgun.mdl"
-	//"worldmodel"			"models/w_hgun.mdl"
-	//"playermodel"			"models/p_hgun.mdl"
+	"playermodel"			"models/p_hgun.mdl"
 	
 	"anim_prefix"			"hgun"
 	"bucket"				"3"

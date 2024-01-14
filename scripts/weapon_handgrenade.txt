@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_grenade.mdl"
 	"worldmodel"			"models/w_grenade.mdl"
-	//"worldmodel"			"models/w_grenade.mdl"
-	//"playermodel"			"models/p_grenade.mdl"
+	"playermodel"			"models/p_grenade.mdl"
 	
 	"anim_prefix"			"Grenade"
 	"bucket"				"4"

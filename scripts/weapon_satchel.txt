@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_satchel.mdl"
 	"worldmodel"			"models/w_satchel.mdl"
-	//"worldmodel"			"models/w_satchel.mdl"
-	//"playermodel"			"models/p_satchel.mdl"
+	"playermodel"			"models/p_satchel.mdl"
 	
 	"anim_prefix"			"slam"
 	"bucket"				"4"

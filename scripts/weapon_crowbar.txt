@@ -3,9 +3,8 @@ WeaponData
 	"printname"				"Crowbar"
 	
 	"viewmodel"				"models/v_crowbar.mdl"
+	"playermodel"			"models/p_crowbar.mdl"
 	"worldmodel"			"models/w_crowbar.mdl"
-	//"worldmodel"			"models/w_crowbar.mdl"
-	//"playermodel"			"models/p_crowbar.mdl"
 	
 	"anim_prefix"			"melee"
 	"bucket"				"0"

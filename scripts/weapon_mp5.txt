@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_9mmAR.mdl"
 	"worldmodel"			"models/w_9mmAR.mdl"
-	//"worldmodel"			"models/w_9mmAR.mdl"
-	//"playermodel"			"models/p_9mmAR.mdl"
+	"playermodel"			"models/p_9mmAR.mdl"
 	
 	"anim_prefix"			"ar2"
 	"bucket"				  "2"

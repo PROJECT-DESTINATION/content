@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_357.mdl"
 	"worldmodel"			"models/w_357.mdl"
-	//"worldmodel"			"models/w_357.mdl"
-	//"playermodel"			"models/p_357.mdl"
+	"playermodel"			"models/p_357.mdl"
 	
 	"anim_prefix"			"357"
 	"bucket"				"1"

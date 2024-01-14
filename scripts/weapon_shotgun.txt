@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_shotgun.mdl"
 	"worldmodel"			"models/w_shotgun.mdl"
-	//"worldmodel"			"models/w_shotgun.mdl"
-	//"playermodel"			"models/p_shotgun.mdl"
+	"playermodel"			"models/p_shotgun.mdl"
 	
 	"anim_prefix"			"shotgun"
 	"bucket"				"2"

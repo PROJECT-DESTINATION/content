@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_squeak.mdl"
 	"worldmodel"			"models/w_squeak.mdl"
-	//"worldmodel"			"models/w_squeak.mdl"
-	//"playermodel"			"models/p_squeak.mdl"
+	"playermodel"			"models/p_squeak.mdl"
 	
 	"anim_prefix"			"slam"
 	"bucket"				"4"

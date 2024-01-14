@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_crossbow.mdl"
 	"worldmodel"			"models/w_crossbow.mdl"
-	//"worldmodel"			"models/w_crossbow.mdl"
-	//"playermodel"			"models/p_crossbow.mdl"
+	"playermodel"			"models/p_crossbow.mdl"
 	
 	"anim_prefix"			"bow"
 	"bucket"				"2"

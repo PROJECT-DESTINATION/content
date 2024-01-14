@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_rpg.mdl"
 	"worldmodel"			"models/w_rpg.mdl"
-	//"worldmodel"			"models/w_rpg.mdl"
-	//"playermodel"			"models/p_rpg.mdl"
+	"playermodel"			"models/p_rpg.mdl"
 	
 	"anim_prefix"			"rpg"
 	"bucket"				"3"

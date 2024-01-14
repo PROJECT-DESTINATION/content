@@ -4,8 +4,7 @@ WeaponData
 	
 	"viewmodel"				"models/v_egon.mdl"
 	"worldmodel"			"models/w_egon.mdl"
-	//"worldmodel"			"models/w_egon.mdl"
-	//"playermodel"			"models/p_egon.mdl"
+	"playermodel"			"models/p_egon.mdl"
 	
 	"anim_prefix"			"ar2"
 	"bucket"				"3"
