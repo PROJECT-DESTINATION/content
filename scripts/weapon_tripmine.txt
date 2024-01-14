@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Tripmine"
+	
+	"viewmodel"				"models/v_tripmine.mdl"
+	"worldmodel"			"models/w_tripmine.mdl"
+	//"worldmodel"			"models/w_tripmine.mdl"
+	//"playermodel"			"models/p_tripmine.mdl"
+	
+	"anim_prefix"			"slam"
+	"bucket"				"4"
+	"bucket_position"		"2"
+
+	"clip_size"				"-1"
+	"default_clip"			"5"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"Trip Mine"
+
+	"weight"				"-10"
+	"item_flags"			"16"
+}

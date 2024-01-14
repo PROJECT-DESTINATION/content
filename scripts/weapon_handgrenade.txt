@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Grenade"
+	
+	"viewmodel"				"models/v_grenade.mdl"
+	"worldmodel"			"models/w_grenade.mdl"
+	//"worldmodel"			"models/w_grenade.mdl"
+	//"playermodel"			"models/p_grenade.mdl"
+	
+	"anim_prefix"			"Grenade"
+	"bucket"				"4"
+	"bucket_position"		"0"
+
+	"clip_size"				"-1"
+	"default_clip"			"5"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"Hand Grenade"
+
+	"weight"				"5"
+	"item_flags"			"0"
+}

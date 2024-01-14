@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Python"
+	
+	"viewmodel"				"models/v_357.mdl"
+	"worldmodel"			"models/w_357.mdl"
+	//"worldmodel"			"models/w_357.mdl"
+	//"playermodel"			"models/p_357.mdl"
+	
+	"anim_prefix"			"357"
+	"bucket"				"1"
+	"bucket_position"		"1"
+
+	"clip_size"				"6"
+	"default_clip"			"6"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"357"
+
+	"weight"				"15"
+	"item_flags"			"0"
+}

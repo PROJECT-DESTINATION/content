@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Hivehand"
+	
+	"viewmodel"				"models/v_hgun.mdl"
+	"worldmodel"			"models/w_hgun.mdl"
+	//"worldmodel"			"models/w_hgun.mdl"
+	//"playermodel"			"models/p_hgun.mdl"
+	
+	"anim_prefix"			"hgun"
+	"bucket"				"3"
+	"bucket_position"		"3"
+
+	"clip_size"				"-1"
+	"default_clip"			"8"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"Hornets"
+
+	"weight"				"10"
+	"item_flags"			"0"
+}

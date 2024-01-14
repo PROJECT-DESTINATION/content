@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"R.P.G."
+	
+	"viewmodel"				"models/v_rpg.mdl"
+	"worldmodel"			"models/w_rpg.mdl"
+	//"worldmodel"			"models/w_rpg.mdl"
+	//"playermodel"			"models/p_rpg.mdl"
+	
+	"anim_prefix"			"rpg"
+	"bucket"				"3"
+	"bucket_position"		"0"
+
+	"clip_size"				"1"
+	"default_clip"			"1"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"rockets"
+
+	"weight"				"20"
+	"item_flags"			"0"
+}

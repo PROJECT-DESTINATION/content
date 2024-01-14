@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Shotgun"
+	
+	"viewmodel"				"models/v_shotgun.mdl"
+	"worldmodel"			"models/w_shotgun.mdl"
+	//"worldmodel"			"models/w_shotgun.mdl"
+	//"playermodel"			"models/p_shotgun.mdl"
+	
+	"anim_prefix"			"shotgun"
+	"bucket"				"2"
+	"bucket_position"		"1"
+
+	"clip_size"				"8"
+	"default_clip"			"12"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"buckshot"
+
+	"weight"				"15"
+	"item_flags"			"0"
+}

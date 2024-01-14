@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Crossbow"
+	
+	"viewmodel"				"models/v_crossbow.mdl"
+	"worldmodel"			"models/w_crossbow.mdl"
+	//"worldmodel"			"models/w_crossbow.mdl"
+	//"playermodel"			"models/p_crossbow.mdl"
+	
+	"anim_prefix"			"bow"
+	"bucket"				"2"
+	"bucket_position"		"2"
+
+	"clip_size"				"5"
+	"default_clip"			"5"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"bolts"
+
+	"weight"				"10"
+	"item_flags"			"0"
+}

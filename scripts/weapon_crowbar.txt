@@ -1,0 +1,25 @@
+WeaponData
+{
+	"printname"				"Crowbar"
+	
+	"viewmodel"				"models/v_crowbar.mdl"
+	"worldmodel"			"models/w_crowbar.mdl"
+	//"worldmodel"			"models/w_crowbar.mdl"
+	//"playermodel"			"models/p_crowbar.mdl"
+	
+	"anim_prefix"			"melee"
+	"bucket"				"0"
+	"bucket_position"		"0"
+
+	"clip_size"				"-1"
+	"default_clip"			"-1"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"MeleeWeapon"			"1"
+
+	"weight"				"0"
+	"item_flags"			"0"
+}
+

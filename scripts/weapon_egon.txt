@@ -1,0 +1,24 @@
+WeaponData
+{
+	"printname"				"Gluon Gun"
+	
+	"viewmodel"				"models/v_egon.mdl"
+	"worldmodel"			"models/w_egon.mdl"
+	//"worldmodel"			"models/w_egon.mdl"
+	//"playermodel"			"models/p_egon.mdl"
+	
+	"anim_prefix"			"ar2"
+	"bucket"				"3"
+	"bucket_position"		"0"
+
+	"clip_size"				"-1"
+	"default_clip"			"20"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"uranium"
+
+	"weight"				"20"
+	"item_flags"			"0"
+}
